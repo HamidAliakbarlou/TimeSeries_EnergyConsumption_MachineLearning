@@ -1,4 +1,4 @@
-# machine-learning-models-for-a-time-series-dataset-
+# machine-learning-models-for-a-time-series-dataset
 
 
 In this project, we examined the efficiency of different machine learning models on a big time-series data set!
