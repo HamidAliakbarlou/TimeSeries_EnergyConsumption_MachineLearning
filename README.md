@@ -1,5 +1,5 @@
 
-# Predicting Energy Consumption Using Machin Learning Models
+# Predicting Energy Consumption by Machin Learning Models
 
 In this project, we examined the efficiency of different machine learning models on a big time-series data set!
 our target feature is forcasting the building's thermal load.
